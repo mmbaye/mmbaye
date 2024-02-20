@@ -16,3 +16,17 @@ I'm a researcher at the Senegalese Institute of Agricultural Research (ISRA), an
 ![Modou Mbaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmbaye&theme=vue-dark&show_icons=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/mmbaye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='60'>](https://twitter.com/JamalMBAYE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='60'>](https://www.youtube.com/channel/modoumbaye280)  
+
+
+
+**Skills**
+•	Google Earth Engine (Google Developer Expert 2023)
+•	R & Python programming  
+o	Multi-source/multi-resolution remote sensing analysis
+o	Machine learning, and geospatial predictive modelling approaches.
+o	hyper-spectral and spectroscopy Data Analysis
+o	Manipulation and processing of large multi-temporal and multi-resolution remote sensing datasets to monitor and map changes over time.
+o	Artificial intelligence for Drone and satellite data processing
+o	Deep Learning Instance Segmentation
+o	TensorFlow 
+
