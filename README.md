@@ -1,5 +1,5 @@
 
-![Modou Presentation](https://github.com/mmbaye/mmbaye/blob/main/JamalMbaye.jpeg)
+![Modou Presentation](https://github.com/mmbaye/mmbaye/blob/main/banner_modou.jpg)
 
 
 
