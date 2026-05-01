@@ -2,8 +2,6 @@
 ![Modou Presentation](https://github.com/mmbaye/mmbaye/blob/main/banner_modou.jpg)
 
 
-
-
 **About me**
 I'm a researcher at the Senegalese Institute of Agricultural Research (ISRA), and I'm based at the Regional Center of Excellence on Dry Cereals and Associated Crops (CERAAS). My work primarily revolves around modernizing plant breeding programs in response to climate change, with a focus on optimizing water usage and implementing advanced monitoring techniques for food production in Africa. I’m using cutting-edge Artificial Intelligence-based imaging technologies, and high-throughput phenotyping. My research focuses on the integration of advanced remote sensing, machine learning, deep learning, and computer vision for agricultural applications. Here are the different topics I'm working on:
 
@@ -29,5 +27,4 @@ o	hyper-spectral and spectroscopy Data Analysis
 o	Manipulation and processing of large multi-temporal and multi-resolution remote sensing datasets to monitor and map changes over time.
 o	Artificial intelligence for Drone and satellite data processing
 o	Deep Learning Instance Segmentation
-o	TensorFlow 
 
