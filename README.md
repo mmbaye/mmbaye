@@ -13,13 +13,14 @@ I'm a researcher at the Senegalese Institute of Agricultural Research (ISRA), an
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmbaye&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmbaye&layout=compact&theme=tokyonight)
+## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mmbaye&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mmbaye&show_icons=true&theme=tokyonight&count_private=true" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=mmbaye&color=blue)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmbaye&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=mmbaye&theme=tokyonight" />
 
 
 
