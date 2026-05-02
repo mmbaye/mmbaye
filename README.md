@@ -13,10 +13,6 @@ I'm a researcher at the Senegalese Institute of Agricultural Research (ISRA), an
 
 ## GitHub Activity
 
-
-## GitHub Activity
-
-
 <img src="https://streak-stats.demolab.com?user=mmbaye&theme=tokyonight" />
 
 
